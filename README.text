@@ -1,0 +1,19 @@
+Hi, this is first text file for this project.
+
+Project Name: Git Practice
+Description:
+
+In this project, I am going to implement git management strategy for the version control
+The procedure will be following:
+
+1: tag version1
+2: Commit => Push
+3: Create a new branch
+4: Commit => Push
+5: merge branch
+6: delete the branch
+7: tag version2
+8: create a new branch
+9: going back to version 1
+10: iterate it
+
