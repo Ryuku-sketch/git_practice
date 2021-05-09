@@ -1,0 +1,14 @@
+This is a text file for practicing mergining! 
+
+So far i have 3 branches. 
+Master: Branch for the release
+Develop: Branch for managing developing features
+Feature: Branch for managing and creating new features
+
+once the developmenent is finished, the code is merged in to master
+Master <= Development
+
+Once the development of a certain feature is done, merge it to development
+
+
+Master <= Development <= Feature
